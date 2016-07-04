@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Blutbank", "Project Blutbank\Project Blutbank.csproj", "{4D5BB56D-E7DB-420E-A3B2-FC2A88F11D0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL", "DLL\DLL.csproj", "{2165681E-B3E8-4F3B-8F2C-E00E7F2704E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelKundenManagementDLL", "ModelKundenManagementDLL\ModelKundenManagementDLL.csproj", "{F026DDFA-7102-493D-91A6-D946183571E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D5BB56D-E7DB-420E-A3B2-FC2A88F11D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5BB56D-E7DB-420E-A3B2-FC2A88F11D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5BB56D-E7DB-420E-A3B2-FC2A88F11D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5BB56D-E7DB-420E-A3B2-FC2A88F11D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2165681E-B3E8-4F3B-8F2C-E00E7F2704E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2165681E-B3E8-4F3B-8F2C-E00E7F2704E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2165681E-B3E8-4F3B-8F2C-E00E7F2704E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2165681E-B3E8-4F3B-8F2C-E00E7F2704E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F026DDFA-7102-493D-91A6-D946183571E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F026DDFA-7102-493D-91A6-D946183571E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F026DDFA-7102-493D-91A6-D946183571E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F026DDFA-7102-493D-91A6-D946183571E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
